@@ -5,7 +5,7 @@
 import numpy as np
 import numpy.random 
 
-"""создание массива со случайными целыми и дробными числами"""
+"""создание массива со случайными целыми числами"""
 array = np.random.randint(0, 10, 10)
 a = np.arange(10)
 
